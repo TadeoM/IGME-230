@@ -40,9 +40,9 @@ You are a professional tennis player who wants to beat every player EVER. It's j
 * there isn't much to learn, just learn what the power-ups are and how to score
 
 ## VII. Screenshots
-![alt text](https://github.com/TadeoM/IGME-230/tree/master/230/projects/project1/images/pgn01.jpg"Example 1")
+![alt text](https://github.com/TadeoM/IGME-230/tree/master/230/projects/project1/images/pgn01.jpg "Example 1")
 
-![alt text](https://github.com/TadeoM/IGME-230/tree/master/230/projects/project1/images/pgn02.jpg"Example 2")
+![alt text](https://github.com/TadeoM/IGME-230/tree/master/230/projects/project1/images/pgn02.jpg "Example 2")
 ## VIII. Other
 Not really sure what else I'll use, and I'm not sure if I'll use any libraries
 ## IX. About the developer
