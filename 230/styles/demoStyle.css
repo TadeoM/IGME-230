@@ -1,0 +1,52 @@
+header{
+    background-color: darkslategrey;
+    height: 150px;
+}
+
+header h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: white;
+    padding: 10px;
+}
+
+header span{
+    font-size: 20px;
+    color:#ddd;
+    font-style: italic;
+    padding-left: 30px;
+}
+
+section{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+article{
+    background-color: lightgrey;
+    display:block;
+    margin-bottom: 5px;
+}
+
+img{
+    float:right;
+    margin: 5px;
+}
+
+#photo{
+    min-height: 350px;
+}
+
+a:link, a:visited{
+    color:darkblue;
+    text-decoration: none;
+}
+a:active{
+    color: lightgray;
+
+}
+
+
+a:hover{
+    text-decoration: underline;
+}

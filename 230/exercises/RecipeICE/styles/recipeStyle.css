@@ -1,0 +1,63 @@
+body {
+    font-family: "trebuchet ms", tahoma, verdana;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid gray;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+h1 {
+    background-color: lightgray;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: center;
+}
+
+.ingredients {
+    background-color: lightgray;
+    width: 250px;
+    list-style-type: circle;
+    padding-bottom: 8px;
+    padding-top: 10px;
+}
+
+li {
+    margin-bottom: 8px;
+    margin-right: 50px;
+}
+
+img {
+    float: right;
+    clear: both;
+}
+
+#yield {
+    float: right; font-weight: bold;
+}
+
+.important {
+    text-decoration-color: red;
+    font-size: 110%;
+    background-color: yellow;
+}
+
+footer {
+    background-color: lightgray;
+}
+
+a:link {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: lightgreen;
+}
+
+a:visited {
+    color: deeppink;
+}
